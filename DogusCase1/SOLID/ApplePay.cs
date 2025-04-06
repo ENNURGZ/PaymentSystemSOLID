@@ -10,7 +10,7 @@ namespace DogusCase1.SOLID
     {
         public string log(string message)
         {
-            //return message + " ApplePay ile ödendi.";
+            
             return "Apple Pay ile ödeme yapıldı. " + message + "TL";
         }
     }
