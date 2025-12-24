@@ -1,4 +1,4 @@
-namespace DogusCase1
+namespace PaymentSystemSOLID
 {
     internal static class Program
     {

@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DogusCase1
+namespace PaymentSystemSOLID
 {
     public interface ILog
     {

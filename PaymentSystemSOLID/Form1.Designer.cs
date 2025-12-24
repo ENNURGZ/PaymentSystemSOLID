@@ -1,4 +1,4 @@
-﻿namespace DogusCase1
+﻿namespace PaymentSystemSOLID
 {
     partial class Form1
     {

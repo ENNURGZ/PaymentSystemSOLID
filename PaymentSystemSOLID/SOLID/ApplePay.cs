@@ -4,14 +4,14 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DogusCase1.SOLID
+namespace PaymentSystemSOLID.SOLID
 {
-    public class Kredi :ILog
+    public class ApplePay :ILog
     {
         public string log(string message)
         {
-            //geri dönüş string
-            return "Kredi ile ödeme yapıldı. " + message + "TL";
+            
+            return "Apple Pay ile ödeme yapıldı. " + message + "TL";
         }
     }
 }
